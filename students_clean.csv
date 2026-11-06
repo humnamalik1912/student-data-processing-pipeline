@@ -1,0 +1,7 @@
+name,city,age,score,age_group,has_missing_values
+Ali,Karachi,21,80.0,Adult,False
+Sara,karachi,22,92.0,Adult,False
+Omar,KARACHI,twenty,,Unknown,True
+Hina,Lahore,20,72.0,Adult,False
+,Lahore,23,66.0,Adult,True
+Bilal,lahore,22,38.0,Adult,False
